@@ -7,7 +7,7 @@
 ### Team members respect each other to be capable, independent people.
 
 ## e-Sign Below
-Kevin Simms
-Ryan Lee
-Todd Nordquist
-Ethan Lyons
+* Kevin Simms
+* Ryan Lee
+* Todd Nordquist
+* Ethan Lyons
